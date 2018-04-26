@@ -7,7 +7,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
     <asp:Panel ID="Panel1" runat="server" DefaultButton="btnSubmit">
     <p>
-        Please Fill the Following to Send Mail.</p>
+        Điền đầy đủ thông tin vào form bên dưới.</p>
     <p>
         Your name:
         <asp:RequiredFieldValidator ID="RequiredFieldValidator11" runat="server" ErrorMessage="*"
