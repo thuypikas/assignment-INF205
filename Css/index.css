@@ -59,7 +59,7 @@ nav>ul>li>a{
 	padding:0 39.3px;
 	line-height:50px;
 	display:block;	
-	color:#FFF;
+	color:red;
 }
 nav>ul>li>a:hover{
 	color:#CCC;
